@@ -38,7 +38,7 @@ function App() {
           return <p key={index}>{item}</p>;
         })}
       </article>
-      <footer className="text-center">
+      <footer className="text-center footer">
         <a
           href="https://raziwebdeveloper.com/"
           target="_blank"
